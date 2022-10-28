@@ -177,6 +177,7 @@ List<Flutterdevelopers> dataList = [
     githublink: 'https://github.com/OscarNgombo',
     userimagename: 'onimage',
   ),
+
   Flutterdevelopers(
     name: 'Tina Detroja',
     title: 'Flutter and iOS Dev',
@@ -185,4 +186,5 @@ List<Flutterdevelopers> dataList = [
     githublink: 'https://github.com/tina-7span,
     userimagename: 'tdimage',
   ),
+
 ];
